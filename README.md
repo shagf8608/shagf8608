@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shagf8608
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning maching learning
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shagf8608@gmail.com
 
